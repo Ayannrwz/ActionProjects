@@ -1,0 +1,2 @@
+module action2 {
+}
